@@ -13,10 +13,10 @@ In the Machine Learning part I have used multiple Algorithms and a comparision o
 
 The Algorithms used are:
 
->> GBT Classifier
->> Logistic Regression
->> Random Forest
->> Decision Tree
+-- GBT Classifier
+-- Logistic Regression
+-- Random Forest
+-- Decision Tree
 
 Python3 is used for this project. I have detailed out explaination as to what is done and each step is explained elaborately in the Jupyter Notebook.
 
